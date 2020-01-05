@@ -1,3 +1,11 @@
+# pi3
+gpu_mem=256
+gpu_freq=450
+sdram_freq=550
+arm_freq=1500
+over_voltage=8
+
+# pi4
 gpu_mem=512
 gpu_freq=600
 sdram_freq=3200
