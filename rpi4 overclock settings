@@ -1,0 +1,6 @@
+gpu_mem=512
+gpu_freq=600
+sdram_freq=3200
+arm_freq=1650
+over_voltage=8
+force_turbo=1
