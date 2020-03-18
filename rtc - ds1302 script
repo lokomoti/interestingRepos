@@ -1,0 +1,16 @@
+###Pinout
+vcc - 3.3V
+gnd - gnd
+clk - pin 11
+dat - pin 13
+rst - pin 15
+###
+
+cd ~
+git clone https://github.com/sourceperl/rpi.rtc/
+cd rpi.rtc
+sudo python3 setup.py install
+
+### scripts
+ds1302_get_utc
+ds1302_set_utc
